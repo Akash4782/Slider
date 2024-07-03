@@ -1,0 +1,38 @@
+body{
+    /* display: grid;
+    place-items: center; */
+    height: 100vh;
+    background-color: #2d3436;
+}
+img{
+    max-width: 100%;
+    border-radius: 2rem;
+    border: 2px solid black;
+    box-shadow: 3px 6px; 
+}
+.wrapper{
+    padding: 50px 15px;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+.splide__arrow{ 
+    opacity: 1;
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: #fbc531;
+}
+/* @media (max-width:1250px){
+    img{
+        height: 150px;
+        width: 200px;
+        box-shadow: none;
+        border-radius: 50%;
+    }
+} */
+/* button{
+    opacity: 1;
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: #fbc531;
+
+} */
